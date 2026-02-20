@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #ee1616;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+form {
+    background: rgb(173, 108, 108);
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+}
